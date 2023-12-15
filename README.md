@@ -1,6 +1,6 @@
 # Fall2023_final_project
 
-My final project for the 1st semester is a quick simple game trying to dodge mobs to survive for a period of time with 50 hitpoints. 
+My final project for the 1st semester is a quick simple aestroids game
 
 ## Description
 
@@ -33,7 +33,7 @@ others to have fun making games.
 * Upload it to VsCode
 * Obtain image folder included with game code
 * At the top right there is a play symbol and press play.
-* Use W, A, S, D and Spacebar to operate
+* Use A, D, and Spacebar to operate
 * Have fun and do not lose!!!!
 
 ## Help
@@ -48,14 +48,15 @@ Contributors names and contact info
 * Nolan Keith
      - n.keith25@bcp.org
 * Chris Cozort
-     - ccozort@bcp.org    
+     - ccozort@bcp.org
+* learntocodeGSE
+     - no contact info   
 
 
 ## Version History
 
 * 3.11.5 64-bit version most optimal for game success
    - bug fixes & easier to locate certain commands
-
 
 
 ## License
@@ -67,4 +68,5 @@ This project is licensed under the [Nolan Keith] License - see the LICENSE.md fi
 * Chris Cozort for the course code and continual help
 * Chris Bradfield for video tutorials
 * Teamates such as Will Goodman and Alan Kim
+* learntocodeGCSE for the course code guidance and helpfulness
   
